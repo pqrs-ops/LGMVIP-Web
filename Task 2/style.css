@@ -1,0 +1,26 @@
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background: darkblue;
+}
+
+.button {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin: 2px;
+    cursor: pointer;
+    color: black;
+}
+
+.textview {
+    width: 200px;
+    height: 35px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    background: white;
+}
